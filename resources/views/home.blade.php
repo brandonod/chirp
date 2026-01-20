@@ -5,7 +5,8 @@
                 <div>
                     <h1 class="text-3xl font-bold">Welcome to Chirper!</h1>
                     <p class="mt-4 text-base-content/60">This is your brand new Laravel application. Time to make it
-                        sing (or chirp)!</p>                        
+                        sing (or chirp)!</p>         
+                    <p class="mt-4 text-base-content/60">This live bruh😎!</p>         
                 </div>
             </div>
         </div>
